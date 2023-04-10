@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+.fontLogo {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+    color: azure;
+}
+
+.Cor_header {
+    background-color: #2ecc71;
+}
+
+.altura {
+    height: 35em;
+}
+
